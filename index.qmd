@@ -5,7 +5,7 @@ format: html
 
 # Welcome
 
-![Profile Picture](images/profile.jpg){width="150px" style="border-radius:50%;"}
+![](ggg.jpg){width="150px" style="border-radius:50%;"}
 
 **Hello!** My name is **Boqian Mao**. Welcome to my personal website.
 
