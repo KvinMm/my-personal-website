@@ -1,0 +1,24 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects & Research
+
+Here are some highlights of my work and research experience.
+
+## Internship: Apexus Tech (Sep 2024 - Oct 2024)
+
+-   Extracted and analyzed financial data from multiple APIs (Yahoo Finance, Tushare, FRED).
+-   Created Python scripts to identify potential investment opportunities using daily ETF prices and technical indicators.
+-   Visualized data insights with Plotly to improve the accuracy of investment decision-making.
+
+## Internship: China Mobile (Aug 2023 - Sep 2023)
+
+-   Analyzed customer usage data to identify trends and patterns for targeted promotions.
+-   Prepared detailed reports on network performance metrics using statistical methods.
+
+## Management Experience: YS Locker (Aug 2022 - Aug 2023)
+
+-   Analyzed monthly income and expenses to identify inefficiencies and implement cost-saving measures.
+-   Maintained strong relationships with clients, increasing retention and revenue.

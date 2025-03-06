@@ -1,0 +1,21 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+I am currently pursuing a Bachelor of Science in Statistics and Data Science at the University of California, Los Angeles. I have held internships focusing on data analysis and quantitative finance. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance.
+
+## Education
+
+-   **UCLA** (Sep 2023 - May 2025), B.S. in Statistics and Data Science
+-   **Mt. San Antonio College** (Aug 2022 - May 2023), Major in Business
+-   **UC Riverside** (Sep 2021 - May 2022), Major in Business
+
+## Skills
+
+-   Python
+-   Microsoft Office (Excel, Word, PowerPoint)
+-   Statistical Analysis
+-   Data Visualization (Plotly)

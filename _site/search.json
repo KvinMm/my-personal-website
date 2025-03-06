@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing a Bachelor of Science in Statistics and Data Science at the University of California, Los Angeles. I have held internships focusing on data analysis and quantitative finance. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance.\n\n\n\nUCLA (Sep 2023 - May 2025), B.S. in Statistics and Data Science\nMt. San Antonio College (Aug 2022 - May 2023), Major in Business\nUC Riverside (Sep 2021 - May 2022), Major in Business\n\n\n\n\n\nPython\nMicrosoft Office (Excel, Word, PowerPoint)\nStatistical Analysis\nData Visualization (Plotly)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some highlights of my work and research experience.\n\n\n\nExtracted and analyzed financial data from multiple APIs (Yahoo Finance, Tushare, FRED).\nCreated Python scripts to identify potential investment opportunities using daily ETF prices and technical indicators.\nVisualized data insights with Plotly to improve the accuracy of investment decision-making.\n\n\n\n\n\nAnalyzed customer usage data to identify trends and patterns for targeted promotions.\nPrepared detailed reports on network performance metrics using statistical methods.\n\n\n\n\n\nAnalyzed monthly income and expenses to identify inefficiencies and implement cost-saving measures.\nMaintained strong relationships with clients, increasing retention and revenue."
+  },
+  {
+    "objectID": "projects.html#quarto",
+    "href": "projects.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects.html#running-code",
+    "href": "projects.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\n\nEmail: kevinmmmao@gmail.com\n\nLinkedIn: Boqian Mao\n\nGitHub: @KvinMm\n\nFeel free to reach out if you have any questions or would like to collaborate!"
+  },
+  {
+    "objectID": "contact.html#quarto",
+    "href": "contact.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "contact.html#running-code",
+    "href": "contact.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome\n\n\n\nProfile Picture\n\n\nHello! My name is Boqian Mao. Welcome to my personal website.\n\nI am a student at UCLA majoring in Statistics and Data Science.\nI have experience in data analysis, quantitative finance, and more.\nCheck out my Projects or learn About Me."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "UCLA (Sep 2023 - May 2025), B.S. in Statistics and Data Science\nMt. San Antonio College (Aug 2022 - May 2023), Major in Business\nUC Riverside (Sep 2021 - May 2022), Major in Business"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "",
+    "text": "Python\nMicrosoft Office (Excel, Word, PowerPoint)\nStatistical Analysis\nData Visualization (Plotly)"
+  },
+  {
+    "objectID": "projects.html#internship-apexus-tech-sep-2024---oct-2024",
+    "href": "projects.html#internship-apexus-tech-sep-2024---oct-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "Extracted and analyzed financial data from multiple APIs (Yahoo Finance, Tushare, FRED).\nCreated Python scripts to identify potential investment opportunities using daily ETF prices and technical indicators.\nVisualized data insights with Plotly to improve the accuracy of investment decision-making."
+  },
+  {
+    "objectID": "projects.html#internship-china-mobile-aug-2023---sep-2023",
+    "href": "projects.html#internship-china-mobile-aug-2023---sep-2023",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed customer usage data to identify trends and patterns for targeted promotions.\nPrepared detailed reports on network performance metrics using statistical methods."
+  },
+  {
+    "objectID": "projects.html#management-experience-ys-locker-aug-2022---aug-2023",
+    "href": "projects.html#management-experience-ys-locker-aug-2022---aug-2023",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed monthly income and expenses to identify inefficiencies and implement cost-saving measures.\nMaintained strong relationships with clients, increasing retention and revenue."
+  }
+]

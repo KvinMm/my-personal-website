@@ -1,0 +1,14 @@
+---
+title: "Home"
+format: html
+---
+
+# Welcome
+
+![Profile Picture](images/profile.jpg){width="150px" style="border-radius:50%;"}
+
+**Hello!** My name is **Boqian Mao**. Welcome to my personal website.
+
+-   I am a student at UCLA majoring in Statistics and Data Science.
+-   I have experience in data analysis, quantitative finance, and more.
+-   Check out my [Projects](projects.qmd) or learn [About Me](about.qmd).
