@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects & Experience"
 format: html
 ---
 
@@ -23,8 +23,6 @@ Predict the risk of Type II Diabetes using electronic health records.
 **Conclusion:**\
 The study recommends the GBM model for more accurate diabetes risk prediction and suggests future work to incorporate additional predictors and further refine the model.
 
-------------------------------------------------------------------------
-
 ## Project: Regression Model for Mobile Phone Price Predictions
 
 **Objective:**\
@@ -40,8 +38,6 @@ Develop a regression model to predict smartphone prices based on various device 
 
 **Conclusion:**\
 This final model robustly predicts mobile phone prices and underscores the importance of product ratings and technical specifications in price determination.
-
-------------------------------------------------------------------------
 
 ## Project: Effect of Musical Instrument Training on Mental Arithmetic Abilities
 

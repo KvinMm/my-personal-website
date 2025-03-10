@@ -4,22 +4,22 @@ format: html
 ---
 
 ::::: row
-::: col-sm-4
+::: col-sm-3
 <!-- Left column: Photo + Contact Info -->
 
 ![](selfi.jpg){width="150px" style="border-radius:100%;"}
 
 **Email**: kevinmmmao\@gmail.com\
-**LinkedIn**: [Boqian Mao](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)\
-**GitHub**: [\@KvinMm](https://github.com/KvinMm)
+[**LinkedIn**](https://www.linkedin.com/in/your-profile)\
+[**GitHub**](https://github.com/KvinMm)
 :::
 
-::: col-sm-8
+::: col-sm-9
 <!-- Right column: Welcome text -->
 
 # Welcome!
 
-**Hello!** My name is **Boqian Mao**. Welcome to my personal website.
+Hello! My name is **Boqian Mao**. Welcome to my personal website.
 
 -   I am a senior student at UCLA majoring in Statistics and Data Science.\
 -   Check out my [Projects](projects.qmd) or learn [About Me](about.qmd).
