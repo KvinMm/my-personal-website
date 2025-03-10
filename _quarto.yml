@@ -13,8 +13,6 @@ website:
         href: projects.qmd
       - text: "Resume"
         href: resume.pdf
-      - text: "Contact"
-        href: contact.qmd
 
 format:
   html:

@@ -3,9 +3,62 @@ title: "Projects"
 format: html
 ---
 
-# Projects & Research
+# Projects & Experience
 
-Here are some highlights of my work and research experience.
+Here are some highlights of my project and work experience.
+
+## Project: Type II Diabetes Prediction Report
+
+**Objective:**\
+Predict the risk of Type II Diabetes using electronic health records.
+
+**Methods:**\
+- Analyzed health data for 100,000 patients (with class balancing) using logistic regression and gradient boosting machines (GBM).\
+- Investigated key predictors including BMI, age, HbA1c level, and blood glucose level, and evaluated interaction effects (e.g., BMI \* Age).
+
+**Findings:**\
+- GBM outperformed the logistic regression model in terms of accuracy and AUC.\
+- A statistically significant interaction between BMI and age was found, highlighting compounded risk factors.
+
+**Conclusion:**\
+The study recommends the GBM model for more accurate diabetes risk prediction and suggests future work to incorporate additional predictors and further refine the model.
+
+------------------------------------------------------------------------
+
+## Project: Regression Model for Mobile Phone Price Predictions
+
+**Objective:**\
+Develop a regression model to predict smartphone prices based on various device features.
+
+**Methods:**\
+- Utilized a Kaggle dataset containing features such as Ratings, RAM, ROM, Mobile Size, Camera resolutions, and Battery Power.\
+- Applied power transformations to predictors and a log transformation to the price.\
+- Compared several models using metrics like R², AIC, BIC, and mean squared error (MSE) to select the best-performing model.
+
+**Findings:**\
+- The transformed regression model (log(Price) with power-transformed predictors) achieved the highest R² and the lowest MSE among tested models.
+
+**Conclusion:**\
+This final model robustly predicts mobile phone prices and underscores the importance of product ratings and technical specifications in price determination.
+
+------------------------------------------------------------------------
+
+## Project: Effect of Musical Instrument Training on Mental Arithmetic Abilities
+
+**Objective:**\
+Examine how playing different musical instruments and varying practice durations affect mental arithmetic performance.
+
+**Methods:**\
+- Conducted a two-way randomized block design with islander participants, grouped by age (teenagers: 13–17, young adults: 18–30).\
+- Participants were assigned to control or one of three instrument groups (Piano, Flute, Cello) with two practice durations (10 vs. 20 minutes).\
+- Data were analyzed using ANOVA, interaction plots, and post-hoc Tukey HSD tests.
+
+**Findings:**\
+- Significant interactions were observed between the type of musical instrument and practice duration on arithmetic score improvements.\
+- Certain instruments (e.g., cello) produced more pronounced benefits, while practice duration alone did not show a significant effect.
+
+**Conclusion:**\
+Musical training—particularly with specific instruments—can enhance mental arithmetic abilities. The study suggests that integrating music into educational practices may improve cognitive performance, warranting further investigation.
 
 ## Internship: Apexus Tech (Sep 2024 - Oct 2024)
 

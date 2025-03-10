@@ -5,7 +5,7 @@ format: html
 
 # About Me
 
-I am currently pursuing a Bachelor of Science in Statistics and Data Science at the University of California, Los Angeles. I have held internships focusing on data analysis and quantitative finance. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance.
+I am currently pursuing a Bachelor of Science in Statistics and Data Science at the University of California, Los Angeles and will graduate Summer 2025. I have held internships focusing on data analysis and quantitative finance. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance, health care, and other related fields. I received offers of Master of Science / Master in Public Health in Biostatistics for Fall 2025 and will make a decision soon.
 
 ## Education
 
@@ -15,7 +15,14 @@ I am currently pursuing a Bachelor of Science in Statistics and Data Science at 
 
 ## Skills
 
+-   R
+
 -   Python
+
+-   SQL
+
 -   Microsoft Office (Excel, Word, PowerPoint)
+
 -   Statistical Analysis
+
 -   Data Visualization (Plotly)

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am currently pursuing a Bachelor of Science in Statistics and Data Science at the University of California, Los Angeles. I have held internships focusing on data analysis and quantitative finance. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance.\n\n\n\nUCLA (Sep 2023 - May 2025), B.S. in Statistics and Data Science\nMt. San Antonio College (Aug 2022 - May 2023), Major in Business\nUC Riverside (Sep 2021 - May 2022), Major in Business\n\n\n\n\n\nPython\nMicrosoft Office (Excel, Word, PowerPoint)\nStatistical Analysis\nData Visualization (Plotly)"
+    "text": "I am currently pursuing a Bachelor of Science in Statistics and Data Science at the University of California, Los Angeles and will graduate Summer 2025. I have held internships focusing on data analysis and quantitative finance. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance, health care, and other related fields. I received offers of Master of Science / Master in Public Health in Biostatistics for Fall 2025 and will make a decision soon.\n\n\n\nUCLA (Sep 2023 - May 2025), B.S. in Statistics and Data Science\nMt. San Antonio College (Aug 2022 - May 2023), Major in Business\nUC Riverside (Sep 2021 - May 2022), Major in Business\n\n\n\n\n\nR\nPython\nSQL\nMicrosoft Office (Excel, Word, PowerPoint)\nStatistical Analysis\nData Visualization (Plotly)"
   },
   {
     "objectID": "about.html#education",
@@ -18,14 +18,35 @@
     "href": "about.html#skills",
     "title": "About",
     "section": "",
-    "text": "Python\nMicrosoft Office (Excel, Word, PowerPoint)\nStatistical Analysis\nData Visualization (Plotly)"
+    "text": "R\nPython\nSQL\nMicrosoft Office (Excel, Word, PowerPoint)\nStatistical Analysis\nData Visualization (Plotly)"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some highlights of my work and research experience.\n\n\n\nExtracted and analyzed financial data from multiple APIs (Yahoo Finance, Tushare, FRED).\nCreated Python scripts to identify potential investment opportunities using daily ETF prices and technical indicators.\nVisualized data insights with Plotly to improve the accuracy of investment decision-making.\n\n\n\n\n\nAnalyzed customer usage data to identify trends and patterns for targeted promotions.\nPrepared detailed reports on network performance metrics using statistical methods.\n\n\n\n\n\nAnalyzed monthly income and expenses to identify inefficiencies and implement cost-saving measures.\nMaintained strong relationships with clients, increasing retention and revenue."
+    "text": "Here are some highlights of my project and work experience.\n\n\nObjective:\nPredict the risk of Type II Diabetes using electronic health records.\nMethods:\n- Analyzed health data for 100,000 patients (with class balancing) using logistic regression and gradient boosting machines (GBM).\n- Investigated key predictors including BMI, age, HbA1c level, and blood glucose level, and evaluated interaction effects (e.g., BMI * Age).\nFindings:\n- GBM outperformed the logistic regression model in terms of accuracy and AUC.\n- A statistically significant interaction between BMI and age was found, highlighting compounded risk factors.\nConclusion:\nThe study recommends the GBM model for more accurate diabetes risk prediction and suggests future work to incorporate additional predictors and further refine the model.\n\n\n\n\nObjective:\nDevelop a regression model to predict smartphone prices based on various device features.\nMethods:\n- Utilized a Kaggle dataset containing features such as Ratings, RAM, ROM, Mobile Size, Camera resolutions, and Battery Power.\n- Applied power transformations to predictors and a log transformation to the price.\n- Compared several models using metrics like R², AIC, BIC, and mean squared error (MSE) to select the best-performing model.\nFindings:\n- The transformed regression model (log(Price) with power-transformed predictors) achieved the highest R² and the lowest MSE among tested models.\nConclusion:\nThis final model robustly predicts mobile phone prices and underscores the importance of product ratings and technical specifications in price determination.\n\n\n\n\nObjective:\nExamine how playing different musical instruments and varying practice durations affect mental arithmetic performance.\nMethods:\n- Conducted a two-way randomized block design with islander participants, grouped by age (teenagers: 13–17, young adults: 18–30).\n- Participants were assigned to control or one of three instrument groups (Piano, Flute, Cello) with two practice durations (10 vs. 20 minutes).\n- Data were analyzed using ANOVA, interaction plots, and post-hoc Tukey HSD tests.\nFindings:\n- Significant interactions were observed between the type of musical instrument and practice duration on arithmetic score improvements.\n- Certain instruments (e.g., cello) produced more pronounced benefits, while practice duration alone did not show a significant effect.\nConclusion:\nMusical training—particularly with specific instruments—can enhance mental arithmetic abilities. The study suggests that integrating music into educational practices may improve cognitive performance, warranting further investigation.\n\n\n\n\nExtracted and analyzed financial data from multiple APIs (Yahoo Finance, Tushare, FRED).\nCreated Python scripts to identify potential investment opportunities using daily ETF prices and technical indicators.\nVisualized data insights with Plotly to improve the accuracy of investment decision-making.\n\n\n\n\n\nAnalyzed customer usage data to identify trends and patterns for targeted promotions.\nPrepared detailed reports on network performance metrics using statistical methods.\n\n\n\n\n\nAnalyzed monthly income and expenses to identify inefficiencies and implement cost-saving measures.\nMaintained strong relationships with clients, increasing retention and revenue."
+  },
+  {
+    "objectID": "projects.html#project-type-ii-diabetes-prediction-report",
+    "href": "projects.html#project-type-ii-diabetes-prediction-report",
+    "title": "Projects",
+    "section": "",
+    "text": "Objective:\nPredict the risk of Type II Diabetes using electronic health records.\nMethods:\n- Analyzed health data for 100,000 patients (with class balancing) using logistic regression and gradient boosting machines (GBM).\n- Investigated key predictors including BMI, age, HbA1c level, and blood glucose level, and evaluated interaction effects (e.g., BMI * Age).\nFindings:\n- GBM outperformed the logistic regression model in terms of accuracy and AUC.\n- A statistically significant interaction between BMI and age was found, highlighting compounded risk factors.\nConclusion:\nThe study recommends the GBM model for more accurate diabetes risk prediction and suggests future work to incorporate additional predictors and further refine the model."
+  },
+  {
+    "objectID": "projects.html#project-regression-model-for-mobile-phone-price-predictions",
+    "href": "projects.html#project-regression-model-for-mobile-phone-price-predictions",
+    "title": "Projects",
+    "section": "",
+    "text": "Objective:\nDevelop a regression model to predict smartphone prices based on various device features.\nMethods:\n- Utilized a Kaggle dataset containing features such as Ratings, RAM, ROM, Mobile Size, Camera resolutions, and Battery Power.\n- Applied power transformations to predictors and a log transformation to the price.\n- Compared several models using metrics like R², AIC, BIC, and mean squared error (MSE) to select the best-performing model.\nFindings:\n- The transformed regression model (log(Price) with power-transformed predictors) achieved the highest R² and the lowest MSE among tested models.\nConclusion:\nThis final model robustly predicts mobile phone prices and underscores the importance of product ratings and technical specifications in price determination."
+  },
+  {
+    "objectID": "projects.html#project-effect-of-musical-instrument-training-on-mental-arithmetic-abilities",
+    "href": "projects.html#project-effect-of-musical-instrument-training-on-mental-arithmetic-abilities",
+    "title": "Projects",
+    "section": "",
+    "text": "Objective:\nExamine how playing different musical instruments and varying practice durations affect mental arithmetic performance.\nMethods:\n- Conducted a two-way randomized block design with islander participants, grouped by age (teenagers: 13–17, young adults: 18–30).\n- Participants were assigned to control or one of three instrument groups (Piano, Flute, Cello) with two practice durations (10 vs. 20 minutes).\n- Data were analyzed using ANOVA, interaction plots, and post-hoc Tukey HSD tests.\nFindings:\n- Significant interactions were observed between the type of musical instrument and practice duration on arithmetic score improvements.\n- Certain instruments (e.g., cello) produced more pronounced benefits, while practice duration alone did not show a significant effect.\nConclusion:\nMusical training—particularly with specific instruments—can enhance mental arithmetic abilities. The study suggests that integrating music into educational practices may improve cognitive performance, warranting further investigation."
   },
   {
     "objectID": "projects.html#internship-apexus-tech-sep-2024---oct-2024",
@@ -49,17 +70,10 @@
     "text": "Analyzed monthly income and expenses to identify inefficiencies and implement cost-saving measures.\nMaintained strong relationships with clients, increasing retention and revenue."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Get in Touch\n\nEmail: kevinmmmao@gmail.com\n\nLinkedIn: Boqian Mao\n\nGitHub: @KvinMm\n\nFeel free to reach out if you have any questions or would like to collaborate!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome\n\nHello! My name is Boqian Mao. Welcome to my personal website.\n\nI am a student at UCLA majoring in Statistics and Data Science.\nI have experience in data analysis, quantitative finance, and more.\nCheck out my Projects or learn About Me."
+    "text": "Email: kevinmmmao@gmail.com\nLinkedIn: Boqian Mao\nGitHub: @KvinMm\n\n\n\n\nWelcome!\nHello! My name is Boqian Mao. Welcome to my personal website.\n\nI am a senior student at UCLA majoring in Statistics and Data Science.\n\nCheck out my Projects or learn About Me.\n\nFeel free to reach out if you have any questions or would like to collaborate!"
   }
 ]
