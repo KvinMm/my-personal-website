@@ -10,8 +10,8 @@ format: html
 ![](selfi.jpg){width="150px" style="border-radius:100%;"}
 
 **Email**: kevinmmmao\@gmail.com\
-[**LinkedIn**](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)\
-[**GitHub**](https://github.com/KvinMm)
+**LinkedIn**:[Boqian Mao](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)\
+**GitHub**:[KvinMm](https://github.com/KvinMm)
 :::
 
 ::: col-sm-9
